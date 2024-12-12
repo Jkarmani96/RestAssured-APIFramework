@@ -5,6 +5,8 @@ import java.util.List;
 public class AddPlace {
 
 	private Location location;
+	
+	
 	public Location getLocation() {
 		return location;
 	}
